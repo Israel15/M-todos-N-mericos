@@ -1,4 +1,4 @@
-prompt = ('Introduzaca No. de interacciones: ');
+prompt = ('Introduzca No. de interacciones: ');
      n = input(prompt);
      
 prompt = ('Introduzca el valor inicial: ');
